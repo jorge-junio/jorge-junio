@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52009D&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Antonio+Florentino+Junior;Tenho+27+anos+de+idade;Eu+estudo+Sistemas+de+informação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ZASOUROUNIJ&align=left&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Florentino github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZASOUROUNIJ&align=right&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorge-junio&align=left&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Florentino github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-junio&align=right&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZASOUROUNIJ&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jorge-junio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Principais habilidades:
@@ -42,7 +42,7 @@
 <!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZASOUROUNIJ}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jorge-junio}/count.svg" /></p> 
 <br></div> 
 -->
 <div align="left">  
