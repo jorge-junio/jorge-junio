@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#3D3D3D&height=500&section=header&text=capsule%20render&fontSize=90)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52009D&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Jorge+Junio+da+Silva;Sou+desenvolvedor+backend+na+empresa+Viggo+Sistemas;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52009D&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Jorge+Junio+da+Silva;Sou+desenvolvedor+backend+...;na+empresa+Viggo+Sistemas;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorge-junio&align=left&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Junio github stats" /> 
