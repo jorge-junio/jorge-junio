@@ -96,7 +96,7 @@ Experienced with message-driven architectures, focusing on scalability, performa
 # 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jorge-junio&theme=dracula&row=2&column=3&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jorge-junio&theme=dracula" />
 </p>
 
 ---
