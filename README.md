@@ -79,8 +79,8 @@ Experienced with message-driven architectures, focusing on scalability, performa
 
 # 📚 Estudando atualmente | Currently learning
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge\&logo=javascript) 
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge\&logo=node.js) 
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge\&logo=django) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi)&nbsp;
 
 ---
 
@@ -103,7 +103,7 @@ Experienced with message-driven architectures, focusing on scalability, performa
 
 # 📫 Contato | Contact
 
-🔗 https://www.linkedin.com/in/antonio-florentino-junior-9138781a0/
+🔗 https://www.linkedin.com/in/jorge-junio/
 
 ---
 
